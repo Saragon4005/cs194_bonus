@@ -1,0 +1,17 @@
+ 1011  pwd
+ 1012  cd ~
+ 1013  cd Desktop/
+ 1014  ls -latr ; mkdir cs149 ; cd cs149
+ 1015  git init
+ 1016  git remote add origin git@github.com:Saragon4005/cs194_bonus.git
+ 1017  echo "git is already set up via ssh and has been for years"
+ 1018  git clone
+ 1020  git pull origin/main
+ 1021  git pull origin
+ 1022  git pull main
+ 1023  git pull origin main
+ 1024  mkdir WS_bonus
+ 1025  cd WS_bonus
+ 1026  git add .
+ 1027  wget -O out.pdf https://tinyurl.com/yy94jltt 
+ 1028  ls -latr
